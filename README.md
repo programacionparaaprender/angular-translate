@@ -1,8 +1,60 @@
-# AngularTranslate
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
+## cursos
+>- https://www.udemy.com/course/angular-convierte-tus-template-en-multi-idiomas/
 
-## Development server
+####
+>- npm install @ngx-translate/core @ngx-translate/http-loader --save
+
+## Sección 1: Introducción al curso
+
+### 1. Introducción
+
+### 2. Preguntas de Udemy
+
+### 3. Instalaciones necesarias
+
+## Sección 2: Aspectos básicos para iniciar el curso
+
+### 4. Creación de la API
+
+### 5. Hola Mundo
+
+### 6. Interpolación
+
+### 7. Array con objetos
+
+### 8. Diferencia entre arreglos, objetos y array con objetos
+
+### 9. Json
+
+## Sección 3: API Multi-Idioma
+
+### 10. Instalación de ngx-translate
+
+### 11. Añadiendo módulos y funciones
+
+### 12. Hello world y Hola mundo
+
+### 13. Instalación de mdb-bootstrap
+
+### 14. Solución de la tarea
+
+### 15. Agregando estilos de mdb-bootstrap
+
+### 16. Navbar
+
+### 17. Select option
+
+### 18. Carousel
+
+### 19. Detalles carousel
+
+## Sección 4: Despedida del curso
+
+### 20. 
+
+
+
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
